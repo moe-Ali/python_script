@@ -2,8 +2,8 @@
 
 this script is coded to:
 - copy directorys from SOURCE directory with a specific pattern in them to TARGET directory 
-- striping off some words from directory names in the new directory (inside TARGAT directory)
-- make a json file inside the target directory that contains some data about this directorys
+- striping off some words from copied directory names in the new directory (inside TARGAT directory)
+- make a json file inside the target directory that contains some data about this copied directorys
 
 to run this code:
 - python script.py {source directory} {target directory}
