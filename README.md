@@ -1,5 +1,7 @@
 # python_script
 
+used libraries: os, sys, shutil, json
+
 this script is coded to:
 - copy directorys from SOURCE directory with a specific pattern in them to TARGET directory 
 - striping off some words from copied directory names in the new directory (inside TARGAT directory)
