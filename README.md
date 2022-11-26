@@ -1,13 +1,13 @@
 # python_script
 
-used libraries: os, sys, shutil, json
+Used libraries: os, sys, shutil, json
 
-this script is coded to:
+This script is coded to:
 - copy directorys from SOURCE directory with a specific pattern in them to TARGET directory 
 - striping off some words from copied directory names in the new directory (inside TARGAT directory)
 - make a json file inside the target directory that contains some data about this copied directorys
 
-to run this code:
+To run this code:
 - python script.py {source directory} {target directory}
 - as default use "python script.py test-source test-target"
 
