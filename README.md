@@ -3,9 +3,9 @@
 Used libraries: os, sys, shutil, json
 
 This script is coded to:
-- copy directorys from SOURCE directory with a specific pattern in them to TARGET directory 
-- striping off some words from copied directory names in the new directory (inside TARGAT directory)
-- make a json file inside the target directory that contains some data about this copied directorys
+- copy directories from the SOURCE directory with a specific pattern in them to the TARGET directory 
+- striping off some words from copied directory names in the new directory (inside the TARGET directory)
+- make a JSON file inside the target directory that contains some data about this copied directories
 
 To run this code:
 - python script.py {source directory} {target directory}
