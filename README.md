@@ -2,6 +2,7 @@
 
 Used libraries: os, sys, shutil, json
 
+
 This script is coded to:
 - copy directories from the SOURCE directory with a specific pattern in them to the TARGET directory 
 - striping off some words from copied directory names in the new directory (inside the TARGET directory)
